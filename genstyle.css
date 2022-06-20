@@ -16,7 +16,7 @@ BODY {
   right: 0;
   bottom: 0;
   overflow: hidden;
-  background: #303030;
+  background: black;
   z-index: 1001;
 }
 
