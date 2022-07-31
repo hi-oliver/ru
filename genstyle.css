@@ -14,7 +14,7 @@ BODY {
   margin: auto;
 }
 .celbut {
-  width: 240px;
+  max-width: 240px;
 }
 .preloader {
   position: fixed;
