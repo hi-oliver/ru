@@ -18,7 +18,10 @@ BODY {
 }
 .preloader {
   position: fixed;
-margin: auto;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
   overflow: hidden;
   background: white;
   z-index: 1001;
@@ -26,6 +29,7 @@ margin: auto;
 
 .preloader__image {
   position: relative;
+
   text-align: center;
   width: 70px;
   height: 70px;
