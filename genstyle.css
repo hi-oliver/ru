@@ -528,9 +528,9 @@ body.sidebar-opened {overflow:hidden;}
 #nav-icon3 span {
   display: block;
   position: absolute;
-  height: 4px;
+  height: 2px;
   width: 100%;
-  background: #000000;
+  background: #313131;
   border-radius: 0px;
   opacity: 1;
   left: 0;
